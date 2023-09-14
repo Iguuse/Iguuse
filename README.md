@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-<div style="background-color: red !important;">
-  <h1>Apenas um titulo</h1>
+<div>
+  <h1 style='color: green'>Apenas um titulo</h1>
 </div>
 
 <!--
