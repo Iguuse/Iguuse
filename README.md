@@ -1,9 +1,7 @@
 ### Hi there 👋
 <style>
-  h1{
-    color: green;
-    font-family: comic sans;
-    text-aling: center;
+  body{
+    background-color: red;
   }
   </style>
   <body>
