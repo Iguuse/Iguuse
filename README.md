@@ -1,10 +1,6 @@
 ### Hi there 👋
-<style>
-  body{
-    background-color: red;
-  }
-  </style>
-  <body>
+
+<body style="color:red">
 <h1>Apenas um titulo<h1>
 </body>
 
