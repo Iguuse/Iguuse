@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<body style="color:red">
-<h1>Apenas um titulo<h1>
-</body>
+### Hi there 👋
+<div style="background-color: red;">
+  <h1>Apenas um titulo</h1>
+</div>
 
 <!--
 **MrWhoISE/MrWhoISE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
