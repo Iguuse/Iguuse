@@ -6,7 +6,9 @@
     text-aling: center;
   }
   </style>
+  <body>
 <h1>Apenas um titulo<h1>
+</body>
 
 <!--
 **MrWhoISE/MrWhoISE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
