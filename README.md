@@ -1,14 +1,20 @@
 <h1 align="center">
-        <samp>&gt; Hey There!<br>
-               <b> I am <a target="_blank" href="https://shahriarshafin.github.io/">Igor</a></b>
+        <samp>&gt; Hey There!
+               <b> I'm <a target="_blank" href="https://shahriarshafin.github.io/">Igor 👋</a></b>
         </samp>
 </h1>
+&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>
+
+&nbsp;
+
+##
+ &nbsp;
+ &nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Iguuse&theme=dark&mode=weekly" />
-
  </div>
  
  &nbsp;
