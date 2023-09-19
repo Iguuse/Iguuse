@@ -1,11 +1,12 @@
 <div align="center">
-<img width="15%" align="center" src="coffee.gif" />
+<img width="10%" align="center" src="coffee.gif" />
 </div>
-<h1 align="center">
+<p align="center" font-size=25%>
         <samp>&gt; Hey There!
                <b> I'm <a target="_blank" href="https://shahriarshafin.github.io/">IGOR </a>&lt;</b>
         </samp>
-</h1>
+</p>
+
 &nbsp;
 
 <img src="walking.gif" align="left" width="25%">
