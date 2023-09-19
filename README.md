@@ -1,13 +1,30 @@
+<div align="center">
+<img width="15%" align="center" src="coffee.gif" />
+</div>
 <h1 align="center">
         <samp>&gt; Hey There!
-               <b> I'm <a target="_blank" href="https://shahriarshafin.github.io/">Igor 👋</a></b>
+               <b> I'm <a target="_blank" href="https://shahriarshafin.github.io/">IGOR </a>&lt;</b>
         </samp>
 </h1>
 &nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>
+
+ <div  width=50%>
+        I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development. 
+    </div>
+    <div style="flex: 1; width: 50%;">
+        <img width=15% align="center"  src="walking.gif" />
+    </div>
 
 &nbsp;
+
+
+
+<div align="center">
+<img width=15% align="center"  src="load.gif" />
+</div>
+
+
 
 ##
  &nbsp;
