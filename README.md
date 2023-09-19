@@ -8,36 +8,23 @@
 </h1>
 &nbsp;
 
-
- <div  width=50%>
-        I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development. 
-    </div>
-    <div style="flex: 1; width: 50%;">
-        <img width=15% align="center"  src="walking.gif" />
-    </div>
-
-&nbsp;
+<img src="walking.gif" align="left" width="25%">
 
 
 
-<div align="center">
-<img width=15% align="center"  src="load.gif" />
-</div>
+ <p>I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>
+
+##   
 
 
-
-##
- &nbsp;
- &nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Iguuse&theme=dark&mode=weekly" />
+<div  display="none" align="center">        
+<img width=60% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Iguuse&theme=dark&mode=weekly" />
  </div>
  
  &nbsp;
  &nbsp;
 
-
+</br>
 
 ## My Skills
 
