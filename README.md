@@ -12,19 +12,21 @@
 
 
 
- <p>I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>
+ <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>
 
 ##   
 
 
 <div  display="none" align="center">        
-<img width=60% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Iguuse&theme=dark&mode=weekly" />
+<img width=60%  src="https://github-readme-streak-stats.herokuapp.com?user=Iguuse&theme=dark&mode=weekly" />
  </div>
+
+
  
  &nbsp;
  &nbsp;
 
-</br>
+
 
 ## My Skills
 
