@@ -18,7 +18,7 @@
 
 
 
- <p align="center"><h3 align="center"><samp><b>A guy passionate about computers and technologies 💻</b></samp></h3> <h3 align="center"><b>&lt/&gt</b></h3>. <br> For now, just a  <strong>Software Development Technician</strong> who found their way into the field of programming. Currently, <strong>I'm Studying Back-End and researching Cybersecurity</strong> as a hobby, but I also have some skills in Front-End like HTML, CSS, WordPress (Elementor Plugin), a bit of JS and PHP, and some other languages like Java, Native Java (Android), some databases like SQL and MongoDB.</p>
+ <p align="center"><h3 align="center"><samp><b>A guy passionate about computers and technologies 💻</b></samp></h3> <h3 align="center"><b>&lt/&gt</b></h3><br> For now, just a  <strong>Software Development Technician</strong> who found their way into the field of programming. Currently, <strong>I'm Studying Back-End and researching Cybersecurity</strong> as a hobby, but I also have some skills in Front-End like HTML, CSS, WordPress (Elementor Plugin), a bit of JS and PHP, and some other languages like Java, Native Java (Android), some databases like SQL and MongoDB.</p>
 
 ##   
 
