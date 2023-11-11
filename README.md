@@ -7,7 +7,7 @@
 <h1 align="center">
      
 <samp>&gt; Hey There!
-<b> I'm <a target="_blank" href="https://shahriarshafin.github.io/">IGOR </a>&lt;</b>
+<b> I'm IGOR &lt;</b>
 </samp>
         
 </h1>
